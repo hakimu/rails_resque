@@ -1,4 +1,4 @@
-== Rails app using Resque
+### Rails app using Resque
 
 To start the worker, in one terminal:
 
